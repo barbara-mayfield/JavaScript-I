@@ -50,7 +50,7 @@ const intern4 = {
 const intern5 = {
   id: 5,
   name: Antonietta,
-  email: ,
+  email: adaine5@samsung.com,
   gender: F
 }
 
